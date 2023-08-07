@@ -1,0 +1,1 @@
+# koncept-automatizacija_procesa_selekcije_kandidata
