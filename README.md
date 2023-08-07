@@ -1,4 +1,4 @@
-# Koncept Automatizacije Procesa Regrutacije i Selekcije
+# Automatizacija procesa regrutacije i selekcije [koncept]
 
 Osnovna namena ovog servisa je automatizacija procesa regrutacije i selekcije za poslodavce i pomoć kandidatima u usavršavanju veština, sticanju znanja, razvoju karijere i pronalaženju željenog posla.
 
